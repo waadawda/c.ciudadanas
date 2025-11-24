@@ -257,6 +257,7 @@ main {
     . top , .s2 {
         padding-left: 4px;
         padding-right: 4px;
+        letter-spacing: 2px;
     }
 
     .top {
@@ -331,6 +332,7 @@ main {
         transform: translateY(0);
     }
 }
+
 
 
 
