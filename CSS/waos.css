@@ -254,6 +254,10 @@ main {
 /* TELÉFONOS */
 @media (max-width: 600px) {
 
+    .top {
+        padding-top: 25px;
+    }
+
     .sts {
         padding: 25px;
     } 
@@ -322,5 +326,6 @@ main {
         transform: translateY(0);
     }
 }
+
 
 
